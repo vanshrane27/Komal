@@ -1,0 +1,49 @@
+body {
+  background-color: #e6aaf3;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.controls {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+th {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.pagination {
+  margin: 20px 0;
+}
+
+.chart-buttons {
+  margin: 20px 0;
+}
+
+.stats-container {
+  margin-top: 20px;
+}
+
+.statistics-box {
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.barchart-container {
+  margin-top: 20px;
+}
